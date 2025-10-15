@@ -2,4 +2,4 @@
 
 # tyo main.py, student_manager.py ani students.txt matra download gara ani Project Report folder ma gayera SRMS Report download gara
 
-# ani kasari run garni vanera tyo SRMS Report file virta xa User Manual ma
+# ani kasari run garni vanera tyo SRMS Report file virta xa User Manual ma kei gari run vayena vane msg garda hunxa hai
